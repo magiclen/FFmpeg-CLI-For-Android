@@ -9,7 +9,7 @@ This is an application which can help you edit audio and video by using FFmpeg w
 
 FFmpeg is a video and audio converter. It supports many codecs and has many useful functions to deal with conversion. The most important thing is that FFmpeg is FREE for personal use. You can compile your own FFmpeg binary file(if you want, please use the FFmpeg source code on our GitHub) called customized FFmpeg and use it via this application.
 
-This application has a default built-in FFmpeg 3.2.2 program, which enables many libraries below:
+This application has a default built-in FFmpeg 3.2.4 program, which enables many libraries below:
 
     ● freetype 2.7.0
     ● fribidi 0.19.7
